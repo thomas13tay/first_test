@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KMPApplication</string>
+    <string name="info">KMP算法配对测试</string>
+    <string name="target_box">输入一组只包含小写字母的字符串.</string>
+    <string name="target">父串</string>
+    <string name="pattern_box">输入模式串.</string>
+    <string name="pattern">子串</string>
+    <string name="confirm_buttom">开始配对</string>
+</resources>
